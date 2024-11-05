@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\tictactoe\\tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\tictactoe\\tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\tictactoe\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\tictactoe\\tictactoe\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|c:\\users\\m.tar\u0131k meng\u00FC\u00E7\\source\\repos\\tictactoe\\tictactoe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4F5F40-AF92-466B-81B2-18F6C00221C9}|TicTacToe\\TicTacToe.csproj|solutionrelative:tictactoe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Form1.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Form1.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Form1.cs",
+              "RelativeToolTip": "TicTacToe\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:14:10.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Giris.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Giris.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Giris.cs",
+              "RelativeToolTip": "TicTacToe\\Giris.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:23:06.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Giris.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Giris.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TicTacToe\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:05:55.278Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Form1.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Form1.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "TicTacToe\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:20:52.029Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Player.cs",
+              "RelativeDocumentMoniker": "TicTacToe\\Player.cs",
+              "ToolTip": "C:\\Users\\M.Tar\u0131k MENG\u00DC\u00C7\\source\\repos\\TicTacToe\\TicTacToe\\Player.cs",
+              "RelativeToolTip": "TicTacToe\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:54:42.277Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
